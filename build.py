@@ -1,11 +1,11 @@
 from pybtex.database.input import bibtex
 
 def get_personal_data():
-    name = ["Len", "Li"]
-    email = "micniemeyer1@gmail.com"
+    name = ["Leheng", "Li"]
+    email = "lehengli@outlook.com"
     twitter = "Mi_Niemeyer"
     github = "Len-Li"
-    linkedin = "michael-niemeyer"
+#     linkedin = "michael-niemeyer"
     bio_text = f"""
                 <p>I am a research scientist at Google working on 3D computer vision and graphics.</p>
                 <!-- <p>
